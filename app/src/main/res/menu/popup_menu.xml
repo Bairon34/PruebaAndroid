@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <item android:id="@+id/option_1"
+        android:title="T-shirts" />
+
+    <item android:id="@+id/option_2"
+        android:title="Blouses" />
+
+    <item android:id="@+id/option_3"
+        android:title="Casual Dresses" />
+
+    <item android:id="@+id/option_4"
+        android:title="Evening Dresses"/>
+
+    <item android:id="@+id/option_5"
+        android:title="Summer Dresses"/>
+
+    <item android:id="@+id/option_6"
+        android:title="All"/>
+
+
+
+
+</menu>

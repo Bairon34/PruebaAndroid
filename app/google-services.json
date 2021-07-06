@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "874019607005",
+    "firebase_url": "https://speedy-victory-160916.firebaseio.com",
+    "project_id": "speedy-victory-160916",
+    "storage_bucket": "speedy-victory-160916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874019607005:android:cdca7886ec4873d16ca634",
+        "android_client_info": {
+          "package_name": "com.prueba.pruebaandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874019607005-f3qv7ph32gr0q06hjaj7fnahrj9214bt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prueba.pruebaandroid",
+            "certificate_hash": "33ff49c58bbb0d4db0b888616eab9a0d63ef1a7c"
+          }
+        },
+        {
+          "client_id": "874019607005-jd6gp0jp5rua2cl37snvmd73ivuvij33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzeJzSOwImWZjvpsdBKtzpWY65HOH-Zkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874019607005-jd6gp0jp5rua2cl37snvmd73ivuvij33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
